@@ -1,0 +1,32 @@
+
+#todo {
+    width: 50%;
+    display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+    min-width: min-content; 
+    
+     padding: 1em;
+     /* min-height: min-content;
+     min-height: auto; */
+    margin-bottom: 1em;
+    text-align: center;
+}
+.textarea {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+    resize: both;
+    min-height: 40px;
+    line-height: 20px;
+  }
+  #edit{
+    margin-top: 2px;
+    background-color: rgb(18, 187, 187);
+
+  }
+#textTodo{width: 80%;
+}
+/* #del{
+float: right;
+} */

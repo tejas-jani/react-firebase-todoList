@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+ 
+  width: 100%;
+}
+  
+#inputText ,#input{
+  margin-right: 1em;
+}
+ .App ul {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    
+   
+      
+}
+ 
